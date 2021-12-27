@@ -7,4 +7,4 @@
 - 💬 Ask me about Programming and Digital Advertising
 - 📫 How to reach me: @luckyaxl
 - 😄 Pronouns: lucky
-- ⚡ Fun fact: I was born from civil engineer
+- ⚡ Fun fact: I come from Civil Engineer
