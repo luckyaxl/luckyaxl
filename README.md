@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-**luckyaxl/luckyaxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Welcome to my Repository
 
 - 🔭 I’m currently working on Software Engineer (Frontend) at Machtwatch
 - 🌱 I’m currently learning Blockchain Technology
