@@ -1,5 +1,5 @@
 # Hi there 👋
-## Welcome to luckyaxl repository
+## Welcome to my repository
 
 - 🔭 I’m currently working as Software Engineer (Frontend) at **Machtwatch**
 - 🌱 I’m currently learning **Blockchain Technology**
