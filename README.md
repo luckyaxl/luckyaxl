@@ -8,4 +8,4 @@
 - 😄 Pronouns: lucky /ˈlukē
 - ⚡ Fun fact: I come from **Civil Engineer**
 
-![Luckyaxl's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckyaxl&count_private=true&show_icons=true&theme=dark) 
+![Luckyaxl's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckyaxl&count_private=true&include_all_commits=true&show_icons=true&theme=dark) 
