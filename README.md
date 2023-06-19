@@ -11,8 +11,7 @@
 
 <!-- ![Luckyaxl's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckyaxl&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
  -->
-
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckyaxl&label=Profile%20views&color=0e75b6&style=flat" alt="luckyaxl" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luckyaxl&label=Profile%20views&color=0e75b6&style=flat" alt="luckyaxl" /> </p>
 
 <!--
 <div style="display:flex;">
