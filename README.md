@@ -32,9 +32,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=luckyaxl&theme=dark&hide_border=true&border_radius=8)](https://git.io/streak-stats)
 
-### 🤝 Connect with me 
-
-[![Linkedin Badge](https://img.shields.io/badge/-lucky_kusuma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucky-kusuma/)](https://www.linkedin.com/in/lucky-kusuma/)
-[![Instagram Badge](https://img.shields.io/badge/-luckyaxl-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/luckyaxl/)](https://instagram.com/luckyaxl)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckyaxl&label=Profile%20views&color=0e75b6&style=flat" alt="luckyaxl" /> </p>
 
